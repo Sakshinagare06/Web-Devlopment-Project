@@ -16,7 +16,5 @@ Week3 Output:
 E-commerce website(Amazon clone)
 
 ![Screenshot 2024-01-13 233152](https://github.com/SakshiNagare2004/Web-Devlopment-Project/assets/144937900/0aebc36f-38bb-45bb-b430-a8383697433d)
-
-![Screenshot 2024-01-14 002553](https://github.com/SakshiNagare2004/Web-Devlopment-Project/assets/144937900/97bb7d2a-07f0-4105-971a-4cbd8af50213)
-
-![Screenshot 2024-01-14 002623](https://github.com/SakshiNagare2004/Web-Devlopment-Project/assets/144937900/bbc80a74-bf6e-4a25-8bb9-66964fd3682c)
+![Screenshot 2024-01-14 002918](https://github.com/SakshiNagare2004/Web-Devlopment-Project/assets/144937900/cb0a6133-c330-4d27-a0f9-94af5b1e3013)
+![Screenshot 2024-01-14 002945](https://github.com/SakshiNagare2004/Web-Devlopment-Project/assets/144937900/f00c9267-9d3f-49cd-9479-3bc5ddf80b29)
