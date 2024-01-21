@@ -66,6 +66,9 @@
       padding: 15px 50px;
       cursor: pointer;
   }
+  .row button:hover {
+      background-color: #d14030;
+  }
 
   ul li {
       position: relative;
