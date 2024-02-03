@@ -22,4 +22,5 @@ E-commerce website(Amazon clone)
 Week4 Output:
 To-do list
 
-![Screenshot 2024-01-21 121600](https://github.com/SakshiNagare2004/Web-Devlopment-Project/assets/144937900/fca10ef4-b303-431b-b438-b9091b0bf29e)
+
+![Screenshot 2024-02-03 234313](https://github.com/SakshiNagare2004/Web-Devlopment-Project/assets/144937900/47d72db0-d202-4a8c-98a6-64414b3fac8f)
